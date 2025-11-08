@@ -29,4 +29,4 @@ Compact SQL-based analysis exploring sales performance across products, countrie
 
 ## Reflection
 
-This portfolio reflects continuous growth, combining theory, practice, and reflection to develop both technical skill and analytical mindset.
+This portfolio highlights steady progression, blending theory, practical implementation, and reflection to refine technical capability and analytical precision.
