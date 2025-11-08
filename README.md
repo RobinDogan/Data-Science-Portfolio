@@ -12,6 +12,9 @@ Each folder represents one key skill area in my Data Science toolkit and include
 🎧 [Spotify Song Popularity Prediction](projects/Spotify_Project)  
 Exploratory and predictive analysis of Spotify track data — examining how features like energy, danceability, and valence influence popularity.
 
+📊 [Sales Analytics SQL Project](projects/Sales_Analytics_SQL)
+Compact SQL-based analysis exploring sales performance across products, countries, and deal sizes using SQLite.
+
 ---
 
 ## 🧠 Structure
