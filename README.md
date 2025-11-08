@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-My learning journey in Data Science, applying Python, SQL, Power BI, and Tableau alongside AI methods to transform data into insight, structure, and meaningful results.  
+My journey in Data Science, applying Python, SQL, Power BI, and Tableau alongside AI methods to transform data into insight, structure, and meaningful results.  
 
 Each folder represents one key skill area in my Data Science toolkit and includes projects, analyses, and reflections that demonstrate both technical development and applied understanding.
 
